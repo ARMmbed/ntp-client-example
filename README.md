@@ -20,3 +20,7 @@ mbed compile -m K64F -t GCC_ARM
 ```
 
 The binary should now be available in the `BUILD` folder.
+
+## License
+
+The software is provided under the [Apache-2.0 license](LICENSE). Contributions to this project are accepted under the same license.
