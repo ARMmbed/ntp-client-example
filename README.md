@@ -1,4 +1,8 @@
-# mbed OS NTP Client Example
+## Deprecation note!
+
+**Please note: This repository is deprecated and it is no longer actively maintained**.
+
+## mbed OS NTP Client Example
 
 This is an example application shows how to use NTP servers in mbed OS. It uses the library found here: https://github.com/ARMmbed/ntp-client.
 
